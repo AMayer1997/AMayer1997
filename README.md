@@ -3,12 +3,9 @@
 <!-- Badges: https://shields.io/ -->
 <!-- Colors: https://simpleicons.org/ -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-blue?style=social&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/a-mayer/)](https://www.linkedin.com/in/a-mayer/) [![XING Badge](https://img.shields.io/badge/-Alexander%20Mayer-green?style=social&logo=Xing&logoColor=006567&link=https://www.xing.com/profile/Alexander_Mayer205)](https://www.xing.com/profile/Alexander_Mayer205)
-
 - 🎓 B. Sc. Media informatics
-- 🔎 I'm looking for a job
-- 👨🏻‍💻 I'm currently learning Angular and iOS development
-- Besides programming I enjoy 🎮 gaming and 🏀 playing basketball
+- 👨🏻‍💻 I'm currently learning Angular
+- Besides programming I enjoy gaming 🎮 and playing basketball 🏀
 
 ## Projects
 
