@@ -5,13 +5,6 @@
 
 - 🎓 B. Sc. Media informatics
 - 👨🏻‍💻 I'm currently learning Angular
-- Besides programming I enjoy gaming 🎮 and playing basketball 🏀
-
-## Projects
-
-- [Dile](https://dile.netlify.app) is my bachelor thesis. I've developed a digital learning platform as a Progressive Web App. I used the [MERN Stack](https://www.mongodb.com/mern-stack) for this application.
-- [Janitor Pro](https://janitorpro.de) is a property management tool. It helps to organize tasks, measure working time and many more. I developed the [Android app](https://play.google.com/store/apps/details?id=systemhaus.ulm.janitorpro).
-- [PatientConcept](https://patientconcept.app/) is an application which enables communication between doctors and patients. Some modules were developed by me in Android. This includes, among other things, a diary module.
 
 ## My Tech Stack
 
