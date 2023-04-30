@@ -3,8 +3,8 @@
 <!-- Badges: https://shields.io/ -->
 <!-- Colors: https://simpleicons.org/ -->
 
+- 👨🏻‍💻 Expertise in building websites, mobile applications, and games
 - 🎓 B. Sc. Media informatics
-- 👨🏻‍💻 I'm currently learning Angular
 
 ## My Tech Stack
 
@@ -17,6 +17,7 @@
 
 ### Frontend - Frameworks and Libraries
 
+[![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&logo=angular&logoColor=FFFFFF)](https://angular.io/)
 [![Android](https://img.shields.io/static/v1?label=&message=Android&color=3DDC84&logo=android&logoColor=FFFFFF)](https://www.android.com/)
 [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/)
 [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/)
