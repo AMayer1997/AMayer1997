@@ -24,6 +24,7 @@
 
 ### Backend - Technologies
 
+[![ASP.NET Core](https://img.shields.io/static/v1?label=&message=ASP.NET%20Core&color=512BD4&logo=dotnet&logoColor=FFFFFF)](https://learn.microsoft.com/de-de/aspnet/core/?view=aspnetcore-7.0)
 [![Google Cloud](https://img.shields.io/static/v1?label=&message=Google%20Cloud&color=4285F4&logo=google-cloud&logoColor=FFFFFF)](https://cloud.google.com/)
 [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/de/)
