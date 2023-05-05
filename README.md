@@ -35,5 +35,5 @@
 
 [![Android Studio](https://img.shields.io/static/v1?label=&message=Android%20Studio&color=3DDC84&logo=android-studio&logoColor=FFFFFF)](https://developer.android.com/)
 [![Unity](https://img.shields.io/static/v1?label=&message=Unity&color=FFFFFF&logo=unity&logoColor=000000)](https://unity.com/)
-[![Visual Studio](https://img.shields.io/static/v1?label=&message=Visual%20Studio&color=5C2D91&logo=visualstudio&logoColor=FFFFFF)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/static/v1?label=&message=Visual%20Studio&color=5C2D91&logo=visualstudio&logoColor=FFFFFF)](https://visualstudio.microsoft.com/de/)
 [![Visual Studio Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
